@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap');
+
+.header {
+    box-sizing: content-box;
+    color: blueviolet;
+    background-color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    padding: 5px 0px 5px;
+    margin: 0;
+    width: 100%;
+    }
+.rubik-moonrocks-regular {
+    box-sizing: content-box;
+    font-family: "Rubik Moonrocks", sans-serif;
+    font-style: normal;
+    color: rgb(134, 120, 216);
+    text-align: center;
+
+   
+    
+  }
+  .tour {
+    box-sizing: content-box;
+    background-color: rgba(10, 8, 20, 0.479);
+    color: white;
+    margin: 0;
+    padding: 10px;
+    margin-left: 400px;
+    margin-right: 400px;
+    max-width: 800px;
+  }
+  .lettera {
+    color: rgb(255, 0, 221);
+    font-size: 36px;
+  }
+  .Tienitiforte{ 
+    letter-spacing: 4px;
+  }
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  li {
+    color: white;
+    font-weight: bold;;
+    padding: 10px;
+    background-color: #6457b5
+  }
+  .scuro {
+    background-color: rgb(57, 57, 107);
+  }
+  .occasione {
+    word-spacing: 20px;
+    background-color: rgb(67, 22, 139);
+    padding: 6px;
+  }
+  .posti {
+    background-color: #6457b5;
+    padding: 20px;
+  }
+  .button { 
+    color: white;
+    background-color: rgb(67, 22, 139);
+    height: 40px;
+    border: 1px;
+    
+  }
+  .footer {
+    box-sizing: content-box;
+    color: white;
+    background-color: black;
+    text-align: right;
+    margin: 0;
+    width: none;
+    padding: 7px;
+  }
+  .contatti {
+    margin: 0;
+    padding: 0;
+   
+  }
+  button:hover {
+    background-color: white;
+    color: blueviolet;
+    cursor: pointer;
+  }
+  .cite {
+    text-align: center;
+    margin: 50px;
+    background-color: #6457b5;
+    padding: 50px;
+    border-left: solid;
+    border-color: #362b7f;
+    border-radius: 10px;
+    border-width: 10px;
+  }
+  .cite1 {
+    text-align: right;
+    margin-top: 10px;
+  }
