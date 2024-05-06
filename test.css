@@ -7,7 +7,7 @@
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
     padding: 5px 0px 5px;
-    margin: 0;
+    margin: 0 auto;
     width: 100%;
     }
 .rubik-moonrocks-regular {
@@ -24,10 +24,8 @@
     box-sizing: content-box;
     background-color: rgba(10, 8, 20, 0.479);
     color: white;
-    margin: 0;
+    margin: 0 auto;
     padding: 10px;
-    margin-left: 400px;
-    margin-right: 400px;
     max-width: 800px;
   }
   .lettera {
